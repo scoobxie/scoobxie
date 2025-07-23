@@ -1,7 +1,7 @@
 ### Hi, I'm Scoobxie!🧚🏻‍♀️
 
-🌱 I study Computer Science for Business at the Romanian-American University <br/>
 🎀 Currently working on my first PC game <br/>
+🌱 I study Computer Science for Business at the Romanian-American University <br/>
 ⭐️ [Twitch Affiliate](https://www.twitch.tv/scoobxie), also creating content on [YouTube](https://www.youtube.com/scoobxie) <br/>
 🎨 Graphic Design: [animated overlays](https://www.fiverr.com/scoobxie/design-stream-animated-camera-overlay), templates, emotes <br/>
 💌 How to reach me: scoobxie@gmail.com <br/>
