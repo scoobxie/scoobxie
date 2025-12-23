@@ -1,17 +1,35 @@
 ### Hi, I'm Scoobxie!🧚🏻‍♀️
 
-🎀 Currently working on a web game <br/>
-🌱 I study Computer Science for Business at the Romanian-American University <br/>
-⭐️ [Twitch Affiliate](https://www.twitch.tv/scoobxie), also creating content on [YouTube](https://www.youtube.com/scoobxie) <br/>
-🎨 I also make [animated overlays](https://www.fiverr.com/scoobxie/design-stream-animated-camera-overlay), templates & emotes <br/>
-💌 How to reach me: scoobxie@gmail.com <br/>
-
-### Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
-
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=scoobxie&limit=5&theme=rose&combine_all_yearly_contributions=true)
+**Game Developer & Digital Artist** 🎀
+Specialized in **MERN Stack** and **Godot Engine (C#)**, blending technical logic with handcrafted pixel art.
 
 ---
+
+### 🩰 About me
+* 🌱 **Creating:** Right now, I'm nurturing [Web Plant Game👩🏻‍🌾](https://plant-game-client.onrender.com/) & flipping burgers in [Culinary Simulator👩🏻‍🍳](https://github.com/scoobxie/The-Scoob-Kitchen).
+* 📖 **Education:** Studying Computer Science for Business at the Romanian-American University.
+* 🎨 **Art:** I craft animated overlays, emotes and custom game assets.
+* 🎥 **Content:** Catch one of my livestreams on [Twitch](https://www.twitch.tv/scoobxie) or visit my archives on [YouTube](https://www.youtube/scoobxie)
+* 💌 **How to reach me:** scoobxie@gmail.com
+
+---
+
+### 🛠️ My Magical Tools
+
+**Engines & Logic** ![Godot](https://img.shields.io/badge/Godot-E0F2F1?style=for-the-badge&logo=godot-engine&logoColor=478CBF) 
+![C#](https://img.shields.io/badge/C%23-F3E5F5?style=for-the-badge&logo=csharp&logoColor=A179B9) 
+![React](https://img.shields.io/badge/React-E1F5FE?style=for-the-badge&logo=react&logoColor=00B0FF) 
+![Node.js](https://img.shields.io/badge/Node.js-E8F5E9?style=for-the-badge&logo=nodedotjs&logoColor=4CAF50) 
+![MongoDB](https://img.shields.io/badge/MongoDB-F1F8E9?style=for-the-badge&logo=mongodb&logoColor=47A248)
+
+**Art & Magic** ![Resprite](https://img.shields.io/badge/Resprite-FCE4EC?style=for-the-badge&logo=aseprite&logoColor=FF69B4) 
+![IbisPaint](https://img.shields.io/badge/Ibis_Paint-FFF1F0?style=for-the-badge&logo=ibis-paint-x&logoColor=FF4D4F) 
+![Blender](https://img.shields.io/badge/Blender-FFF3E0?style=for-the-badge&logo=blender&logoColor=F5792A) 
+![Unity](https://img.shields.io/badge/Unity-F5F5F5?style=for-the-badge&logo=unity&logoColor=222222)
+
+---
+
+### 🌺 Let's collaborate!
+Whether it's a game project or a custom stream overlay, I'm always excited to bring new ideas to life. Feel free to explore my repositories and see the magic behind the code!🌻
+
 [![](https://visitcount.itsvg.in/api?id=scoobxie&icon=7&color=5)](https://visitcount.itsvg.in)
