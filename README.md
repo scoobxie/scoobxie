@@ -9,7 +9,7 @@ Specialized in **MERN Stack** and **Godot Engine (C#)**, blending technical logi
 * 🌱 **Creating:** Right now, I'm nurturing [Web Plant Game👩🏻‍🌾](https://plant-game-client.onrender.com/) & flipping burgers in [Culinary Simulator👩🏻‍🍳](https://github.com/scoobxie/The-Scoob-Kitchen).
 * 📖 **Education:** Studying Computer Science for Business at the Romanian-American University.
 * 🎨 **Art:** I craft animated overlays, emotes and custom game assets.
-* 🎥 **Content:** Catch one of my livestreams on [Twitch](https://www.twitch.tv/scoobxie) or visit my archives on [YouTube](https://www.youtube/scoobxie)
+* 🎥 **Content:** Catch one of my livestreams on [Twitch](https://www.twitch.tv/scoobxie) or visit my archives on [YouTube](https://www.youtube.com/@scoobxie).
 * 💌 **How to reach me:** scoobxie@gmail.com
 
 ---
@@ -22,7 +22,7 @@ Specialized in **MERN Stack** and **Godot Engine (C#)**, blending technical logi
 ![Node.js](https://img.shields.io/badge/Node.js-E8F5E9?style=for-the-badge&logo=nodedotjs&logoColor=4CAF50) 
 ![MongoDB](https://img.shields.io/badge/MongoDB-F1F8E9?style=for-the-badge&logo=mongodb&logoColor=47A248)
 
-**Art & Magic** ![Resprite](https://img.shields.io/badge/Resprite-FCE4EC?style=for-the-badge&logo=aseprite&logoColor=FF69B4) 
+**Art & Magic** ![Aseprite](https://img.shields.io/badge/Aseprite-FCE4EC?style=for-the-badge&logo=aseprite&logoColor=FF69B4) 
 ![IbisPaint](https://img.shields.io/badge/Ibis_Paint-FFF1F0?style=for-the-badge&logo=ibis-paint-x&logoColor=FF4D4F) 
 ![Blender](https://img.shields.io/badge/Blender-FFF3E0?style=for-the-badge&logo=blender&logoColor=F5792A) 
 ![Unity](https://img.shields.io/badge/Unity-F5F5F5?style=for-the-badge&logo=unity&logoColor=222222)
