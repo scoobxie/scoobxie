@@ -6,7 +6,7 @@ Specialized in **MERN Stack** and **Godot Engine (C#)**, blending technical logi
 ---
 
 ### 🩰 About me
-* 🌱 **Creating:** Right now, I'm nurturing [Web Plant Game👩🏻‍🌾](https://plant-game-client.onrender.com/) & flipping burgers in [Culinary Simulator👩🏻‍🍳](https://github.com/scoobxie/The-Scoob-Kitchen).
+* 🌱 **Creating:** Right now, I'm nurturing [Rootlify👩🏻‍🌾](https://rootlify.onrender.com/) & flipping burgers in [Culinary Simulator👩🏻‍🍳](https://github.com/scoobxie/The-Scoob-Kitchen).
 * 📖 **Education:** Studying Computer Science for Business at the Romanian-American University.
 * 🎨 **Art:** I craft animated overlays, emotes and custom game assets.
 * 🎥 **Content:** Catch one of my livestreams on [Twitch](https://www.twitch.tv/scoobxie) or visit my archives on [YouTube](https://www.youtube.com/@scoobxie).
