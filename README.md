@@ -6,7 +6,7 @@ Specialized in **MERN Stack** and **Godot Engine (C#)**, blending technical logi
 ---
 
 ### ⭐ About me
-* 🌱 **Creating:** Right now, I'm nurturing [Rootlify👩🏻‍🌾](https://rootlify.onrender.com/) & cultivating deep work with [RootliFOCUS🌹](https://scoobxie.itch.io/rootlifocus).
+* 🌱 **Creating:** Right now, I'm nurturing [Rootlify👩🏻‍🌾](https://rootlify.eu/) & cultivating deep work with [RootliFOCUS🌹](https://scoobxie.itch.io/rootlifocus).
 * 📖 **Education:** Studying Computer Science for Business at the Romanian-American University.
 * 🎨 **Art:** I craft animated overlays, emotes and custom game assets.
 * 🎥 **Content:** Catch one of my livestreams on [Twitch](https://www.twitch.tv/scoobxie) or visit my archives on [YouTube](https://www.youtube.com/@scoobxie).
