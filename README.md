@@ -1,16 +1,19 @@
 ### Hi, I'm Scoobxie!🧚🏻‍♀️
 
-**Game Developer & Digital Artist** 🌸
-Specialized in **MERN Stack** and **Godot Engine (C#)**, blending technical logic with handcrafted pixel art.
+**⚙️ Game & Software Developer 🌺 Pixel & Poly Artist 🫧 bringing whimsy back to tech!** 
 
 ---
 
-### ⭐ About me
-* 🌱 **Creating:** Right now, I'm nurturing [Rootlify👩🏻‍🌾](https://rootlify.eu/) & cultivating deep work with [RootliFOCUS🌹](https://scoobxie.itch.io/rootlifocus).
-* 📖 **Education:** Studying Computer Science for Business at the Romanian-American University.
-* 🎨 **Art:** I craft animated overlays, emotes and custom game assets.
-* 🎥 **Content:** Catch one of my livestreams on [Twitch](https://www.twitch.tv/scoobxie) or visit my archives on [YouTube](https://www.youtube.com/@scoobxie).
-* 💌 **How to reach me:** scoobxie@gmail.com
+### 🧁 About me
+* ⭐ **Current Projects:**
+  * Roguelike Survival MMO: [Rootlify](https://rootlify.eu/)🌱
+  * Productivity Companion: [RootliFOCUS](https://scoobxie.itch.io/rootlifocus)🌹
+  * 3D Psychological Horror Game🕯️
+    
+* 📖 **Education:** 3rd year Computer Science student
+* 🎨 **Art:** Crafting 2D pixel art & 3D assets
+* 🎥 **Content:** Catch my live devlogs on [Twitch](https://www.twitch.tv/scoobxie) or explore my archives on [YouTube](https://www.youtube.com/@scoobxie)
+* 💌 **How to reach me:** contact@cybersnx.eu
 
 ---
 
@@ -32,7 +35,7 @@ Specialized in **MERN Stack** and **Godot Engine (C#)**, blending technical logi
 
 ---
 
-### 🧩 Let's collaborate!
-Whether it's a game project or a custom stream overlay, I'm always excited to bring new ideas to life. Feel free to explore my repositories and see the magic behind the code!🌻
+### 🌸 Let's collaborate!
+I'm always excited to bring new ideas to life!🧩
 
 [![](https://visitcount.itsvg.in/api?id=scoobxie&icon=7&color=5)](https://visitcount.itsvg.in)
